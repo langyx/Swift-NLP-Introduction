@@ -10,7 +10,7 @@
 ## Ressources 
 | Name | Link |
 | ------ | ------ |
-| Keynote | [NaturalLanguageProcessingKeynote.keynote](./NaturalLanguageProcessingKeynote.keynote) |
+| Keynote | [NaturalLanguageProcessingKeynote.pdf](./NaturalLanguageProcessingKeynote.pdf) |
 | Playground (5 Pages) | [NLPlayground.playground](./NLPlayground.playground) |
 
 ## NL Features
